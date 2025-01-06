@@ -1,0 +1,14 @@
+Implicit wait:
+driver.manage.timeouts,implicitWait(Duration.ofSeconds(20));
+
+Explicit Wait:
+WebDriverWait wait = new WebDriverWait(driver,Duration.ofSeconds(20));
+wait.untill(ExpectedConditions.visibilityOfElementLocated(xpath));
+
+Fluent Wait:
+Wait wait = new FluentWait(WebDriver driver).timeouts(Duration.ofSeconds(5)).pollingEvery(Duration.ofSeconds(2)).ignoring(Exception.class);
+wait.untill(new Function<WebDriver,WebElement>(){
+
+public WebElement apply(WebDriver driver){
+return xpath;
+}});

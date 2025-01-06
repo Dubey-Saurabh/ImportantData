@@ -1,0 +1,3 @@
+RestApi automation:
+1. On the basis of .yaml specifications we check the functionality of the apis we are going to hit.
+2. Then we used to maintain a api documenation where we used to have all request and response values on the basis of API version also.

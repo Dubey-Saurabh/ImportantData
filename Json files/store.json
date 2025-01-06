@@ -1,0 +1,29 @@
+{
+  "book": [
+    {
+      "author": "Nigel Rees",
+      "category": "reference",
+      "price": 150.5,
+      "title": "Saying of the century"
+    },
+   {
+      "author": "Evelyn Waugh",
+      "category": "fiction",
+      "price": 100,
+      "title": "Sword of honor"
+    },
+   {
+      "author": "Herman Melville",
+      "category": "fiction",
+      "price": 100,
+      "title": "Sword of honor"
+    },
+   {
+      "author": "J R Tolkein",
+      "category": "fiction",
+      "price": 200,
+      "title": "The lord of the rings"
+    }
+	]
+	
+}

@@ -1,0 +1,12 @@
+Selenium Exceptions:
+
+NoSuchElementException
+ElementNotVisibleException
+NoSuchFrameException
+NoAlertPresentException
+NoSuchWindowException
+SessionNotFoundException : This Exception will occur when a driver is trying to perform operations on the Web Application after the Browser is closed.
+StaleElementReferenceException
+InvalidSelectorException
+ElementNotSelectableException : ElementNotSelectableException indicates that the web element is present in the web page but cannot be selected.
+TimeOutException

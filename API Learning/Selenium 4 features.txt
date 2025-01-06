@@ -1,0 +1,20 @@
+Selenium 4 features:
+
+BrowserOptions:
+FirefoxOptions browserOptions = new FirefoxOptions();
+browserOptions.setPlatformName("Windows 10");
+browserOptions.setBrowserVersion("92");
+
+Find element(s) utility methods in Java:
+Before                                                                       After
+driver.findElementByClassName("className");                driver.findElement(By.className("className"));
+
+Waits and Timeouts
+Before                                                                       After
+driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);  driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+
+Relative Locators in Selenium 4
+To left of
+To right of
+Above
+Below

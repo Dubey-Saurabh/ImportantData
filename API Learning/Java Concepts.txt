@@ -1,0 +1,3 @@
+Arrays:
+
+equals() : to compare content of two arrays

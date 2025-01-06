@@ -1,0 +1,16 @@
+Automation:
+Master UI Automation
+Master API Automation : RestAPI, Postman
+Master Unit testing frameworks like Testng, Junit
+Master Maven
+Master CI/CD: Jenkins, GIT
+Master SQL
+Master BDD Cucumber
+Learn Design patterns
+Learn Track Management tools: Rally, Jira
+
+Java:
+Basic Java
+OOPS
+Collection
+Java8

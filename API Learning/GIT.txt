@@ -1,0 +1,15 @@
+How to start with Git:
+
+Open GIT bash in your project folder and run below configuration commands
+ git configure --global user.name "Saurabh Dubey"
+ git configure --global user.email "Saurabh_d@outlook.com"
+ 
+run git init command
+
+add your git repo to your local project folder by running below like command 
+ git remote add origin https://github.com/Dubey-Saurabh/Learning.git
+
+run git status to check if Git is started
+
+SUCCESS. 
+

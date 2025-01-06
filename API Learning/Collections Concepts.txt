@@ -1,0 +1,8 @@
+ArrayList:
+addAll() : to merge two array lists.
+removeAll(): To remove merging
+retainAll(): To print common values
+size(): to calculate length
+get(i) : get some element from Index
+set(i, element): to set element in ith index
+ 

@@ -1,0 +1,7 @@
+Exploratory Testing:
+
+Unstructured : very random or unstructured
+Unscripted
+Interactive: Testers interact with the software, try out different features, and observe its behavior.
+Effective
+Time-efficient

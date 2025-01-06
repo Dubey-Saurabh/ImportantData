@@ -1,0 +1,13 @@
+Roles and responsibilities:
+
+So being an automation tester and a member of agile process my job role is to Identify and Select Automation Test Cases and esuring an optimal coverage 
+according to application requirements as per story or task allocation.
+To Design and Document the Automation Test Strategy to ensure consistency and efficiency.
+To Create a Test Plan on the basis of requirements and perform automation.
+To Monitor the Defect Management Process also
+Managing Changes and track Regression Tests accordingly.
+Interact with Customers/Clients and gets Updates on Issues.
+
+Why are you looking for a job change:
+“because I believe it’s the right time to seek new challenges and further develop my skills and expertise.
+I’m eager to take on more responsibilities and contribute to a company’s growth.”

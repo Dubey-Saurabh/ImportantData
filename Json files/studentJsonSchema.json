@@ -1,0 +1,53 @@
+{
+    "$schema": "http://json-schema.org/draft-06/schema#",
+    "type": "array",
+    "items": {
+        "$ref": "#/definitions/Welcome6Element"
+    },
+    "definitions": {
+        "Welcome6Element": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "id": {
+                    "$ref": "#/definitions/ID"
+                },
+                "name": {
+                    "type": "string"
+                },
+                "age": {
+                    "type": "integer"
+                },
+                "grade": {
+                    "type": "string"
+                },
+                "subjects": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                }
+            },
+            "required": [
+                "age",
+                "grade",
+                "id",
+                "name",
+                "subjects"
+            ],
+            "title": "Welcome6Element"
+        },
+        "ID": {
+            "anyOf": [
+                {
+                    "type": "integer"
+                },
+                {
+                    "type": "string",
+                    "format": "integer"
+                }
+            ],
+            "title": "ID"
+        }
+    }
+}

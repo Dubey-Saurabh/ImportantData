@@ -1,0 +1,4 @@
+For Eclipse:
+
+ctrl + shift + f = Format
+ctrl + s = build project
